@@ -1,0 +1,2 @@
+Create an UPC item with Brand and TAX information
+Create an non validated PLU item
